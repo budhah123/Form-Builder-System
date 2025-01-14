@@ -38,4 +38,4 @@ Currently, two official plugins are available:
 ## Live Demo
 
 You can view the live demo of the project here:  
-[Live Demo](https://your-project-name.netlify.app)
+http://localhost:5173/
